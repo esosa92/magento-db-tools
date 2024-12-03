@@ -1,0 +1,5 @@
+bin/*
+pkg/*
+sdk/*
+.idea
+dump.json
